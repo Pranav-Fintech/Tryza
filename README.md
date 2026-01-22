@@ -42,7 +42,7 @@ Customers can **try outfits at home and pay only for what fits**, eliminating un
 ## 📍 Current Status
 
 - ✅ **Live Website**  
-  👉 https://pranav-fintech.github.io/Tryza/
+  👉 https://pranav-devani.github.io/Tryza/
 
 - ✅ MVP Landing Page  
 - ✅ Unit Economics Designed  
