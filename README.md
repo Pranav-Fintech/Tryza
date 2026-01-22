@@ -77,7 +77,7 @@ We are actively exploring collaborations with:
 - D2C fashion brands  
 - Incubators & startup programs  
 
-📩 Contact: **tryza.official@gmail.com**
+📩 Contact: **tryza.commerce@gmail.com**
 
 ---
 
