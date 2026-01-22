@@ -1,20 +1,97 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Tryza — Try First. Buy Later.
 
-# Run and deploy your AI Studio app
+**Tryza** is a hyperlocal fashion commerce platform redefining how India shops for clothing by enabling **60-minute delivery with a trial-first experience**.
 
-This contains everything you need to run your app locally.
+Customers can **try outfits at home and pay only for what fits**, eliminating uncertainty, reducing returns, and increasing confidence in online fashion shopping.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1H6RtIbQ95r87qsI9-s19GqQhgLkdmOU5
+🌍 Starting with **India-1 cities**, Tryza is built for **speed, fit confidence, and sustainable unit economics**.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## ✨ What Makes Tryza Different
 
+- 🕒 **60-Minute Fashion Delivery** from hyperlocal dark stores  
+- 👕 **Trial-First Model** — try at home, buy only what fits  
+- 📦 **Lower Returns** by shifting decision-making to delivery time  
+- 🏪 **Dark-Store-First Profitability**, scale second  
+- 🧵 **Private Label Focus** for higher margins & faster inventory rotation  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🧠 Problem We Solve
+
+- 30–40% return rates in online fashion  
+- Size, fit, and fabric mismatch  
+- 3–7 day delivery timelines  
+- High reverse-logistics cost  
+
+**Tryza converts fashion from a delayed gamble into an instant, confident purchase.**
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React + Vite**
+- 🎨 **Tailwind CSS**
+- 🚀 **GitHub Pages (CI/CD via GitHub Actions)**
+- 🧩 Component-driven architecture
+- 🌐 Static-first, fast-loading frontend
+
+---
+
+## 📍 Current Status
+
+- ✅ **Live Website**  
+  👉 https://pranav-fintech.github.io/Tryza/
+
+- ✅ MVP Landing Page  
+- ✅ Unit Economics Designed  
+- 🏗️ Dark Store Pilot (Planned)  
+- 🧪 City-Level Launch (Ahmedabad)
+
+---
+
+## 🗺️ Roadmap
+
+### Phase 1 — Foundation
+- Landing page & waitlist
+- Supplier onboarding
+- Dark store setup (pilot)
+
+### Phase 2 — Validation
+- Trial-first delivery MVP
+- Private label launch
+- Unit economics validation
+
+### Phase 3 — Scale
+- Multi-dark-store rollout
+- D2C brand partnerships
+- Ops & tech automation
+
+---
+
+## 🤝 Partnerships & Collaboration
+
+We are actively exploring collaborations with:
+- Contract manufacturers  
+- D2C fashion brands  
+- Incubators & startup programs  
+
+📩 Contact: **tryza.official@gmail.com**
+
+---
+
+## 👨‍💻 Founder
+
+**Pranav Devani**  
+Founder, Tryza  
+📍 India  
+
+> Building the future of instant, confident fashion commerce.
+
+---
+
+## 📌 Vision
+
+To make fashion delivery as **fast, confident, and habitual** as quick commerce —  
+without burning capital, and with sustainable unit economics.
